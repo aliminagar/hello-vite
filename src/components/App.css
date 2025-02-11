@@ -1,0 +1,9 @@
+.page {
+  text-align: center;
+}
+.animal-image {
+  max-width: 300px; /* Adjust width as needed */
+  height: auto; /* Maintain aspect ratio */
+  display: block;
+  margin: 0 auto; /* Center the image */
+}
